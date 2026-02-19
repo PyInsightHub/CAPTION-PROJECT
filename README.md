@@ -1,4 +1,4 @@
-# CAPTION-PROJECT
+# **Telecom Churn Analysis**
 ---
 
 ## ***PROJECT DURITION***
